@@ -22,7 +22,7 @@
             <Font name="Times New Roman" size="22.0" />
          </font>
       </Label>
-      <TextArea fx:id="inputtext" layoutX="6.0" layoutY="64.0" prefHeight="190.0" prefWidth="643.0">
+      <TextArea fx:id="inputtext" layoutX="6.0" layoutY="64.0" prefHeight="190.0" prefWidth="643.0" wrapText="true">
          <font>
             <Font name="Times New Roman" size="20.0" />
          </font></TextArea>
